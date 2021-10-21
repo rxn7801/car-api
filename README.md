@@ -18,3 +18,10 @@ List of APIs added:
 Test cases for
  - all the above APIs
  - service class
+
+
+To run the application:
+
+- mvn clean install 
+- above step will create the jar file
+- run using java -jar <generated-jar-file-from-above-step>
