@@ -24,4 +24,4 @@ To run the application:
 
 - mvn clean install 
 - above step will create the jar file
-- run using java -jar <generated-jar-file-from-above-step>
+- run using java -jar <<generated-jar-file-from-above-step>>
